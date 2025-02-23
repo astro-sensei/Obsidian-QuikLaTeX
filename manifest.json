@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-quicklatex-tikz",
+    "name": "QuickLaTeX & TikZJax for Obsidian",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "Affiche des formules LaTeX et des graphiques TikZ directement dans Obsidian.",
+    "author": "Astro Sensei",
+    "isDesktopOnly": false
+  }
